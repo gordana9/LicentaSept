@@ -4,7 +4,7 @@ Dupa ce este instalat, proiectul se deschide in VS Code.
 
 **Clonează repository-ul:**
 Rulează această comandă folosind git Bash:
-  git clone 
+  git clone https://github.com/gordana9/LicentaSept.git
 
 **Deschide proiectul:**
 File > Open folder > Select the project directory
